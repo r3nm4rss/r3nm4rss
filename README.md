@@ -1,13 +1,11 @@
-[<img src="https://user-images.githubusercontent.com/81523999/229276448-55cf9349-2b20-4d49-b697-cfddc0b3a84a.png" style="width:125%">](https://github.com/Zerbaib)
+[<img src="https://user-images.githubusercontent.com/81523999/229276448-55cf9349-2b20-4d49-b697-cfddc0b3a84a.png" style="width:125%">](https://github.com/r3nm4rss)
 
-![TROPHY](https://github-profile-trophy.vercel.app/?username=Zerbaib&theme=darkhub&margin-w=10)
+![TROPHY](https://github-profile-trophy.vercel.app/?username=r3nm4rss&theme=darkhub&margin-w=10)
 
-![VIEW](https://komarev.com/ghpvc/?username=zerbaib&color=blueviolet)
 
 # Something about me ...
-- 👋 Yo, I’m **[@Zerbaib](https://github.com/Zerbaib)** !
-- 🇫🇷 I am a French developer.
-- 🎂 Only 263 days for my birthdate.
+- 👋 Yo, I’m **[@r3nm4rss](https://github.com/r3nm4rss)** !
+- ⚜️ I am a French developer from Quebec.
 
 ## My learning projects
 
@@ -26,7 +24,7 @@
 - 📫 How to reach me:
   - **Discord**: **``@r3nm4rss``**:
   
-    [<img src="https://user-images.githubusercontent.com/81523999/246273989-48ea9368-246f-4af3-bf16-2c0c40705b71.png">](https://discord.gg/ESzHqadj5J)
+    [<img src="https://user-images.githubusercontent.com/81523999/246273989-48ea9368-246f-4af3-bf16-2c0c40705b71.png">](https://discord.gg/QeAyQGU7vU)
 
 
   - **@mail profesional**: **hugo.hennetin@proton.me**
