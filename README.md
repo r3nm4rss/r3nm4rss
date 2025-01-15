@@ -24,11 +24,10 @@
 - 📫 How to reach me:
   - **Discord**: **``@r3nm4rss``**:
   
-    [<img src="https://user-images.githubusercontent.com/81523999/246273989-48ea9368-246f-4af3-bf16-2c0c40705b71.png">](https://discord.gg/QeAyQGU7vU)
+![My Server](https://discord.com/api/guilds/1326313304150376499/widget.png?style=banner2)
 
 
-  - **@mail profesional**: **hugo.hennetin@proton.me**
-  - **@mail personal**: **zerbaib@proton.me**
+  - **@mail profesional**: **zemmoure301@gmail.com**
 
 
 
