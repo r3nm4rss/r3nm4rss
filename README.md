@@ -1,5 +1,11 @@
 <p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=r3nm4rss&txt=Here%20is%20my%20custom%20text"></p>
 
+<p align="center">
+  <a href="https://discord.com/users/1177627178389741568">
+    <img src="https://lanyard-profile-readme.vercel.app/api/1177627178389741568?bg=0a0f16" alt="Discord Profile"/>
+  </a>
+</p>
+
 ![TROPHY](https://github-profile-trophy.vercel.app/?username=r3nm4rss&theme=darkhub&margin-w=10)
 
 
@@ -28,13 +34,3 @@
 
 
   - **@mail profesional**: **zemmoure301@gmail.com**
-
-
-
-## ⚙️ Info GitHub
-
-<p align="center">
-  <a href="https://discord.com/users/1177627178389741568">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1177627178389741568?bg=0a0f16" alt="Discord Profile"/>
-  </a>
-</p>
