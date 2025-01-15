@@ -34,4 +34,8 @@
 
 ## ⚙️ Info GitHub
 
-[![GitHubStreak](https://github-readme-streak-stats.herokuapp.com?user=r3nm4rss&theme=github-dark)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://discord.com/users/1177627178389741568">
+    <img src="https://lanyard-profile-readme.vercel.app/api/1177627178389741568?bg=0a0f16" alt="Discord Profile"/>
+  </a>
+</p>
